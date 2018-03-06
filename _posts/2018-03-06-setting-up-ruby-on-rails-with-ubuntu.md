@@ -85,7 +85,7 @@ Take the **Rubymine.x.y.z.tar.gz** and extract it to where you like.
 I have mine installed to the `/opt/Rubymine` directory.
 In your Rubymine install directory run to startup the application. 
 ~~~ shell
-./bin/rubymine.sh
+$ ./bin/rubymine.sh
 ~~~
 When its running start choosing the defaults to your liking. 
 Once you're done configuring your install the last thing that is nice to do is to create a desktop entry for this 
