@@ -3,7 +3,10 @@ layout: post
 title: Setting Up Ruby on Rails on Ubuntu 17.10
 image: /img/hello_world.jpeg
 ---
-
+In this article I will go through how to setup a complete Ruby on Rails development environment on Ubuntu 17.10.
+  
+This will include how to install [rbenv], [postgres][pg], as well as [RubyMine] on your machine.
+ 
 # Setting up Rbenv
 Rbenv is my choice for a Ruby version manager.  It is easy to use and allows you to have multiple versions of Ruby on 
 your computer without much fuss.
